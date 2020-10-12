@@ -7,7 +7,7 @@
         "dialog",
         "modal"
     ],
-    "license": ["MIT", "GPL"],
+    "license": ["MIT"],
     "type": "component",
     "homepage": "http://jquery.malsup.com/block/",
     "authors": [
